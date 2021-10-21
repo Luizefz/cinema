@@ -1,2 +1,2 @@
 # cinema
-Banco de dados criado nas aulas de programação - Alex 2021
+Banco de dados criado nas aulas de programação - Eduardo 2021
